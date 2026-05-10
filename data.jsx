@@ -165,7 +165,7 @@ const ALERTS = {
     { id: 'a3', avatar: 'assets/club-hackdavis.png', text: 'HackDavis applications close in 3 days.', time: '3h', kind: 'reminder' },
   ],
   week: [
-    { id: 'a4', avatar: 'assets/club-ebd-avatar.png', text: 'Ethiopian Belly Dancing posted a new event: TLC 1020.', time: '2d', kind: 'event' },
+    { id: 'a4', avatar: 'assets/valorant.png', text: 'VALORANT @EaUCD posted a new event: TLC 1020.', time: '2d', kind: 'event' },
     { id: 'a5', avatar: 'assets/avatar-23.png', text: 'Food Fundraiser Club mentioned you.', time: '4d', kind: 'mention' },
     { id: 'a6', avatar: 'assets/club-vsa.png', text: 'VSA Lunar New Year — RSVPs open.', time: '5d', kind: 'event' },
   ],
